@@ -1,1 +1,2 @@
-# hello-worls
+# hello-world 
+Hi!, I am Aditi!
